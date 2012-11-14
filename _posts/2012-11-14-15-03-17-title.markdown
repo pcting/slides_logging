@@ -1,0 +1,9 @@
+# __Lightning Fast Logging__
+
+<div class="footer" markdown="1">
+#### [https://github.com/pcting/slides_testxp](https://github.com/pcting/slides_logging)
+### By Patrick Ting
+### OneScreen
+### November 14, 2012
+### Version 0.1.0
+</div>

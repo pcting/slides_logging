@@ -1,0 +1,4 @@
+# __Good__ Side Effects
+* Central messages in a cluster
+* Debug in production
+* Configurable

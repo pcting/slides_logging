@@ -1,0 +1,5 @@
+# __Bad__ Practice
+* Write to files
+* Write to stdout/stderr
+* Comment out code to disable
+* NOOP

@@ -1,0 +1,4 @@
+# Frameworks
+* __Java__ : Logback, Log4J, SLF4J, Apache Common Longging
+* __PHP__ : log4php, syslog
+* __Ruby__ : log4r, syslog
